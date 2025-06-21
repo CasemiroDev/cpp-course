@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <format>
 
 using namespace std;
 
@@ -22,4 +21,5 @@ int main()
  
     cout << "Olá" << nome << "Suas três primeiras notas foram "<< nota1 << " " << nota2 << " " << nota3 << " ." << "Sua média da primeira nota com peso 2, da segunda nota com peso 3 e da terceira nota com peso 5 é " << media << endl;
 
-return 0;  
+return 0; 
+}
